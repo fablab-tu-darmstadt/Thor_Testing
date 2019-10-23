@@ -110,6 +110,7 @@ void loop() {
   Serial.flush();
 }
 
+// Deprecated
 /*
  * Orange Thor:
  *   Base-Art1: Tested
